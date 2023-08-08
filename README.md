@@ -1,10 +1,10 @@
 Hi 👋 My name is Ilya
 =====================
 
-Web Developer💻
+Web Developer
 -------------
 
-I am a frontend developer with a passion for creating visually appealing and user-friendly websites. I have a strong background in HTML, CSS and I enjoy turning designs into fully functional web pages. I am constantly learning and keeping up with the latest trends and technologies in the frontend development industry to ensure that I am always delivering the best possible solutions to my clients. I am a detail-oriented individual and I strive for pixel-perfect designs and seamless user experiences. I am a team player and I enjoy collaborating with designers and backend developers to bring projects to life. I am excited about the opportunity to work on new projects and contribute my skills to create innovative and engaging websites.
+I am a frontend developer💻 with a passion for creating visually appealing and user-friendly websites. I have a strong background in HTML, CSS and I enjoy turning designs into fully functional web pages. I am constantly learning and keeping up with the latest trends and technologies in the frontend development industry to ensure that I am always delivering the best possible solutions to my clients. I am a detail-oriented individual and I strive for pixel-perfect designs and seamless user experiences. I am a team player and I enjoy collaborating with designers and backend developers to bring projects to life. I am excited about the opportunity to work on new projects and contribute my skills to create innovative and engaging websites.
 
 🌍📍  I'm based in Belarus, Minsk
 
